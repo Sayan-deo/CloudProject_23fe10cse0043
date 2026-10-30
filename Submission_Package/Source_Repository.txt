@@ -1,0 +1,8 @@
+FestPass source repository
+
+GitHub: https://github.com/Sayan-deo/CloudProject_23fe10cse0043
+Branch: main
+Final source commit: 2168a255288db41536544c69fec9dfbf20c90782
+
+The matching source archive is source/festpass-java-source.zip. It excludes
+Git metadata, generated build output, and runtime data.

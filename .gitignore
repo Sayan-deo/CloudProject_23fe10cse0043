@@ -6,3 +6,15 @@ data/
 *.iml
 .DS_Store
 Thumbs.db
+
+# Local configuration and secrets. Keep .env.example tracked if one is added.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Local Jenkins downloads and runtime state.
+downloads/
+runtime/
